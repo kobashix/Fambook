@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
         width={size}
         height={size}
         alt="user"
-        src={`https://fambook.onrender.com/assets/${image}`}
+        src={`https://fambook-1.onrender.com/assets/${image}`}
       />
     </Box>
   );
